@@ -59,6 +59,7 @@ namespace PasteHandler
 					if (iData.GetDataPresent(DataFormats.Rtf))
 					{
 						Clipboard.Clear();
+						Console.WriteLine(iData.GetDataPresent(DataFormats.Text));
 					}
 					else
 					{
