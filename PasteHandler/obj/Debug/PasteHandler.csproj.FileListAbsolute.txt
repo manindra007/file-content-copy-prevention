@@ -1,0 +1,7 @@
+C:\Users\cydri\source\repos\PasteHandler\PasteHandler\obj\Debug\PasteHandler.csproj.CoreCompileInputs.cache
+C:\Users\cydri\source\repos\PasteHandler\PasteHandler\bin\Debug\PasteHandler.exe.config
+C:\Users\cydri\source\repos\PasteHandler\PasteHandler\bin\Debug\PasteHandler.exe
+C:\Users\cydri\source\repos\PasteHandler\PasteHandler\bin\Debug\PasteHandler.pdb
+C:\Users\cydri\source\repos\PasteHandler\PasteHandler\obj\Debug\PasteHandler.exe
+C:\Users\cydri\source\repos\PasteHandler\PasteHandler\obj\Debug\PasteHandler.pdb
+C:\Users\cydri\source\repos\PasteHandler\PasteHandler\obj\Debug\PasteHandler.csproj.AssemblyReference.cache
